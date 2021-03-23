@@ -1,0 +1,13 @@
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Proxy.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Proxy.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Data.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Model.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Util.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Data.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Model.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\bin\Debug\Util.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\obj\Debug\Proxy.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\LanchoNet\Proxy\obj\Debug\Proxy.pdb
